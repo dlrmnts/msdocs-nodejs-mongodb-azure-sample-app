@@ -58,4 +58,4 @@ jobs:
           app-name: 'msdocs-expressjs-mongodb-aktiftech'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A38AC104E1B84BA3B27E1B8FACB0D29B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6AFEA1E6C2D34EFE9508369892E828F9 }}
